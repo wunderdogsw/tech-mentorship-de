@@ -1,6 +1,6 @@
-# Tech Mentorship Combined Repo f. Meetings & Tasks
+# Tech Mentorship Meetings & Tasks
 
 ## Structure
 
-`/meetings`         - meeting notes & template for future meetings
-`/mentoring-tracks` - courses to take
+1. `/meetings`         - meeting notes & template for future meetings
+2. `/mentoring-tracks` - courses to take
